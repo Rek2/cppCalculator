@@ -1,0 +1,3 @@
+G:\My Drive\Homework\Y2S1\Software Tech 2\Assignment 2\Assignment2Classesdraft\x64\Debug\Assignment2Classesdraft.exe
+C:\Users\rek24\OneDrive\Desktop\compilling some projects i want to put into portfolio\FOR IT\Assignment2\x64\Debug\Assignment2Classesdraft.exe
+C:\Users\rek24\OneDrive\Desktop\compilling some projects i want to put into portfolio\FOR IT\cppCalculator\x64\Debug\Assignment2Classesdraft.exe
